@@ -1,5 +1,5 @@
 
-# ⚡ Electricity Usage Analysis 📊
+# ⚡ Electricity Usage Analysis of an Apartment 📊
 
 This project explores and analyzes electricity usage data using Python. It leverages data visualization and statistical insights to help understand patterns and anomalies in electricity consumption.
 
@@ -36,9 +36,5 @@ Perfect for:
 2. Open `Electricity_Usage.ipynb` in Jupyter Notebook  
 3. Run all cells to view insights  
 
-## 🤝 Contributions
 
-Feel free to fork and contribute! Add visualizations, predictive models, or connect IoT-based data.
-
-## 🌟 Star this repo if you found it helpful!
 
